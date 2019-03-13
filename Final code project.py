@@ -8,9 +8,4 @@ while True:
     left(170)
     if abs(pos()) < 1:
         break
-end_fill()
-<<<<<<< HEAD
-done()
-=======
-done()
->>>>>>> d71ecd8f8664ed38374829d2b6706b694250d3bb
+
