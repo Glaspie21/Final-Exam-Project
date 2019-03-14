@@ -17,3 +17,6 @@ thankyou = (input("Thank you for rateing my star!"))
 
 print(rate_out_of_10)
 print(thankyou)
+
+
+#This was what I did so I could pull my code when I got to school
