@@ -9,8 +9,11 @@ while True:
     if abs(pos()) < 1:
         break
 end_fill()
-<<<<<<< HEAD
-done()
-=======
-done()
->>>>>>> d71ecd8f8664ed38374829d2b6706b694250d3bb
+''' now I will ask what they thought about my code
+They will rate it out of 10'''
+
+rate_out_of_10 = (input("Rate my star out of 10: "))
+thankyou = (input("Thank you for rateing my star!"))
+
+print(rate_out_of_10)
+print(thankyou)
